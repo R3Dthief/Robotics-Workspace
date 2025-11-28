@@ -22,6 +22,7 @@ RA1 v0 is a prototype 5-DOF robotic arm designed for general manipulation tasks,
 - RA1-NFR-002 — The structural components (PETG) shall support at least 5 load cycles per minute during testing without deformation or failure.
 - RA1-NFR-003 _ The system shall be designed for ease of assembly, requiring only common hand tools.
 - RA1-NFR-004 _ All wiring shall be arranged with safe cable routing to prevent entanglement, abrasion, or interference with joints.
+- RA1-NFR-005 _ The arm shall not exceed 65 dB at 0.5 meters during normal joint movement.
 
 ## 4. Performance Targets
 
@@ -45,6 +46,7 @@ RA1 v0 is a prototype 5-DOF robotic arm designed for general manipulation tasks,
 - RA1-C-002 _ Actuators shall be hobby-class high-torque servos, not industrial-grade motors.
 - RA1-C-003 _ The arm shall operate only on a stable fixed base and is not designed for mobile platforms in v0.
 - RA1-C-004 _ The system shall maintain safe operation within indoor environments under standard temperature and humidity.
+- RA1-C-005 _ The total harware cost for RA1 v0 shall not exceed $250
 - RA1-A-001 — v0 assumes the use of affordable, readily available Amazon/Prime parts and 3D-printed components.
 - RA1-A-002 _ v0 assumes the use of a bench-top test area, not a hazardous or industrial environment.
 - RA1-A-003 _ It is assumed the user has access to basic CAD tools, a 3D printer, and Git/GitHub for version control.
