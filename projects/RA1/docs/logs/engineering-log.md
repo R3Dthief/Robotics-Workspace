@@ -9,3 +9,10 @@
 - Renamed 'RA1\docs\design\requirements.md' to 'RA1\docs\design\v0-requirements.md'
 - Completed RA1 v0 Requirements document
 - Added Max Budget for v01 and acceptable noise level to RA1 v0 requirements document.
+- Chosen mechanical architecture
+- PETG structure rules created
+- Joint architecture decisions (bearing + shafts)
+- Naming Conventions
+- Version Scheme
+- Coordinate system
+- Hardware standards (M3/M4, Bearing Types, Shaft diameters)
